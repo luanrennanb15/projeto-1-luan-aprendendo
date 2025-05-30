@@ -1,4 +1,6 @@
 Ola, meu nome é Luan Rennan.
-Estou estudando C# e git/ github, quero me desenvolver cada dia mais e especializar em uma so linguagem por enquanto!
+Estou estudando C# e git/ github, quero me desenvolver cada dia mais e me especializar em uma so linguagem 
+para que eu possa realmente aprender e aplicar no meu dia a dia no trabalho.
+
 
 Grato por cada feedback ou orientações de voces!!
